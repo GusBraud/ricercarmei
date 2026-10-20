@@ -1,6 +1,6 @@
 # RicercarMEI
 
-Generate MEI headers from a CSV file, and easily merge those headers in MEI files. Developped by Valentin Crogiez (@valcrog), Master student in Machine Learning at Université de Lille
+Generate MEI headers from a CSV file, and easily merge those headers in MEI files. Developped by Valentin Crogiez ([@valcrog]([[url](https://github.com/valcrog)](https://github.com/valcrog))), Master student in Computer Science at Université de Lille.
 
 ## Getting started
 
